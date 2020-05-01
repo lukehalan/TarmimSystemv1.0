@@ -1,0 +1,13 @@
+change :
+
+	- includes/macroes/dbnames.php
+	- includes/macroes/names.php
+
+
+change permission directory to 0777:
+
+	- includes/pages/admin/file
+
+also can change :
+
+	- includes/classes/mysql.class.php -> hide show error
